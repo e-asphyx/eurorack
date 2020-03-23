@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +GND
+D Power symbol creates a global label with name "+GND" , ground
+K power-flag
+$ENDCMP
+#
+$CMP -GND
+D Power symbol creates a global label with name "-GND" , ground
+K power-flag
+$ENDCMP
+#
+$CMP GBJ8J
+D Single-phase bridge rectifier; Urmax: 600V; If: 8A; Ifsm: 175A
+K rectifier acdc
+$ENDCMP
+#
+#End Doc Library

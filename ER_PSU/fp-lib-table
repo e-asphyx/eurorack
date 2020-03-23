@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ER_PSU)(type KiCad)(uri ${KIPRJMOD}/ER_PSU.pretty)(options "")(descr ""))
+)
